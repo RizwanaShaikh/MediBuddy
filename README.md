@@ -1,5 +1,5 @@
 # MediBuddy
-
+https://colab.research.google.com/drive/1SXIE9uB6EGTPDu-dpamLOmPGd11zoX74?usp=drive_link
 1. This project analyzes insurance claims data from MediBuddy, a digital healthcare platform providing inpatient, outpatient, and corporate wellness benefits. The goal is to identify key factors impacting insurance costs and develop a predictive model for estimating insurance charges.
 
 2. Dataset Description:
